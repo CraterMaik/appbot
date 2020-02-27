@@ -1,12 +1,11 @@
-# Warning: do not edit
-# --------------------
-# This is a generated file and will be overwritten
-
 @app
-begin-app
+prism-059
+
+@static
 
 @http
 get /
+get /home
 
 @tables
 data
